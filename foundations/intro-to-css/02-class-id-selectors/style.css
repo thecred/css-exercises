@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.impar{
+    background-color: lightpink;
+    font-family: Verdana, sans-serif;
+}
+#numero2{
+    color: blue;
+    font-size: 36px;
+}
+#numero3{
+    font-size: 24px;
+}
+#numero4{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
